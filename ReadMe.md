@@ -13,8 +13,8 @@
 <img src="public/icons/css/css.svg" alt="CSS3 Icon" width="48" height="48">
 <img src="public/icons/js/js.svg" alt="Javascript Icon" width="48" height="48"> 
 <img src="public/icons/ts/ts.svg" alt="Typescript Icon" width="48" height="48"> 
-<img src="public/icons/mongodb/mongodb2.svg" alt="MongoDB Icon" width="48" height="48">
-<img src="public/icons/expressjs/expressjs-ar21.svg" style=" margin-bottom: -10px; margin-left: -10px" alt="Expressjs Icon">
+<img src="public/icons/mongodb/mongodb.svg" alt="MongoDB Icon" width="48" height="48">
+<img src="public/icons/expressjs/expressjs_logo_icon_169185.png" height="48px" width="48px" alt="Expressjs Icon">
 <img src="public/icons/reactjs/reactjs.svg" alt="reactjs Icon" width="48" height="48">
 <img src="public/icons/nodejs/nodejs.svg" alt="nodeJs Icon" width="48" height="48"> 
 <img src="public/icons/tailwind/tailwind.svg" alt="tailwind Icon" width="48" height="48"> 
