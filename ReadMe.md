@@ -1,4 +1,4 @@
-  <img align="right" src="https://visitcount.itsvg.in/api?id=sahiwl&icon=2&color=9" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=sahiwl" />
 
 <h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=false&vCenter=false&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Sahil;" />
