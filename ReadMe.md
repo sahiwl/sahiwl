@@ -13,6 +13,7 @@
 
 
 # Skills   
+<div style="padding-bottom: 15px">
 <img src="public/icons/html/html.svg" alt="HTML5 Icon" width="48" height="48"> 
 <img src="public/icons/css/css.svg" alt="CSS3 Icon" width="48" height="48">
 <img src="public/icons/js/js.svg" alt="Javascript Icon" width="48" height="48"> 
@@ -29,6 +30,7 @@
 <img src="public/icons/jquery/jquery.svg" alt="jQuery Icon" width="48" height="48"> 
 
 <br>
+</div>
 
 ---
 <img src="public/loop.gif" width="1000">
