@@ -5,38 +5,38 @@
 const sahil = {
   state: isAlive(True),
   code: ['TypeScript', 'JavaScript', 'Java', 'Python'],
-  yappsAbout: ['web dev', 'computers', 'tech'],
+  yappsAbout: ['Web dev', 'Computers', 'Tech'],
   technologies: {
     frontend: {
       ts: ['Next JS', 'React', 'TypeScript'],
       styling: [
           'TailwindCSS',
-          'shadcn UI',
-          'radix UI'
+          'Shadcn UI',
+          'Radix UI'
       ]
     },
-    backEnd: {
+    backend: {
         ts: ['Node', 'Express', 'REST API'],
-        serverless: ['cloudflare workers', 'aws'],
+        serverless: ['Cloudflare Workers', 'AWS'],
         databases: ['PostgresSQL', 'MySQL', 'MongoDB'],
         orm: ['Prisma']
     },
     deployment: {
-      frontend: ['vercel', 'netlify', 'render'],
-      backend: ['render', 'deno']
+      frontend: ['Vercel', 'Render', 'Deno', 'Netlify'],
+      backend: ['Render', 'Deno']
     }
   },
-  OS : ['ubuntu 22.0.4.04 LTS'],
+  OS : ['Ubuntu 22.0.4.04 LTS'],
   currently: 'Solidifying my web-dev skills',
-  funfact: 'snap is great and i have no issues with it (>=flatpak) :D'
+  funfact: 'Snap is great and i have no issues with it (>=flatpak) :D'
 }
 ```
 
 ---
 <!-- # More of me -->
-**~ let it rip.**
+#### ~ Let it rip
 
----
+
   <img align="right" src="https://komarev.com/ghpvc/?username=sahiwl" />
 
 [![wakatime](https://wakatime.com/badge/user/018dc268-cd1f-405a-abd9-12f1bce09a2f.svg)](https://wakatime.com/@018dc268-cd1f-405a-abd9-12f1bce09a2f)
