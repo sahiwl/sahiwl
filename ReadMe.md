@@ -5,7 +5,7 @@
 const sahil = {
   state: isAlive(True),
   code: ['TypeScript', 'JavaScript', 'Java', 'Python'],
-  yappsAbout: ['Web dev', 'Computers', 'Tech'],
+  yappsAbout: ['Web dev', 'Music', 'Tech'],
   technologies: {
     frontend: {
       ts: ['Next JS', 'React', 'TypeScript'],
@@ -26,13 +26,12 @@ const sahil = {
       backend: ['Render', 'Deno']
     }
   },
-  OS : ['Ubuntu 22.0.4.04 LTS'],
-  currently: 'Solidifying my web-dev skills',
-  funfact: 'Snap is great and i have no issues with it (>=flatpak) :D'
+  currently: 'on DSA grind, and lil bit of webdev in between'
 }
 ```
 
----
+<br></br>
+----
 <!-- # More of me -->
 #### ~ Let it rip
 
